@@ -3,5 +3,5 @@ module add (
     input b,
     output  c
 );
-assign c = a + b;
+assign c = a + b;//666
 endmodule
